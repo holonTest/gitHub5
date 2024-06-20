@@ -1,3 +1,4 @@
 1st line of file
 2nd line from local
-3rd line from cloud  
+3rd line from cloud 
+4th line in myNewBranch 
